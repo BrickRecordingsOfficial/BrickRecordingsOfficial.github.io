@@ -29,3 +29,8 @@ button {
     padding-bottom: 8px;
     padding-left: 16px;
 }
+
+.formborder {
+    border-color: black;
+    border-width: 5px;
+}
